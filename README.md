@@ -8,7 +8,7 @@ GoogleSlides Presentation on the project found here: https://docs.google.com/pre
 
 Included in this repository are the Javascript/JSON files created for the project, however due to it using an internal-tool called Heath and the removal of any sensitive information to the company, such as usernames and passwords, the program will not run. More information on Heath and the project can be found on the googleslides document above.
 
-Also Included in this repository is a vidoe-demo of the project running
+Also Included in this repository is are two pictures of the results gotten when the code is run.
 
 Thank you!
 
