@@ -1,17 +1,15 @@
-{
-	"services": [
-		{
-			"service": {
-				"fixVersions": [
-					{
-						"versionName": "DMP API 2.15",
-						"deploymentInfo": {
-							"datetime": "1510488118.172",
-							"who": "Jenkins"
-						}
-					}
-				]
-			}
+{ "services": [ {
+   "service": {
+      "fixVersions": [
+	 {
+	    "versionName": "DMP API 2.15",
+	    "deploymentInfo": {
+		"datetime": "1510488118.172",
+		"who": "Jenkins"
+		}
+	     }
+	  ]
+       }
     },
 {
    "service": {
